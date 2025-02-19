@@ -21,19 +21,19 @@ const DemoShowcase = () => {
       title: "Live Monitoring",
       description: "Real-time video feeds with AI-enhanced motion detection and object recognition.",
       icon: <Camera className="w-8 h-8" />,
-      demo: "/api/placeholder/800/400"
+      demo: "/images/access.jpg"
     },
     access: {
       title: "Access Control",
       description: "Biometric authentication and visitor management system.",
       icon: <Users className="w-8 h-8" />,
-      demo: "/api/placeholder/800/400"
+      demo: "/images/access.jpg"
     },
     alerts: {
       title: "Smart Alerts",
       description: "Instant notification system with threat level classification.",
       icon: <Bell className="w-8 h-8" />,
-      demo: "/api/placeholder/800/400"
+       demo: "/images/access.jpg"
     }
   };
 

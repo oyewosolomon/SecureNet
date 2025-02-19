@@ -30,7 +30,7 @@ const IndustriesSection: React.FC = () => {
         "Customer behavior analytics",
         "Automated POS integration"
       ],
-      image: "/api/placeholder/600/400",
+      image: "/images/access.jpg",
       stats: {
         locations: "2,500+",
         reduction: "40%",
@@ -47,7 +47,7 @@ const IndustriesSection: React.FC = () => {
         "Facial recognition",
         "Regulatory compliance"
       ],
-      image: "/api/placeholder/600/400",
+      image: "/images/access.jpg",
       stats: {
         locations: "1,200+",
         reduction: "45%",
@@ -64,7 +64,7 @@ const IndustriesSection: React.FC = () => {
         "Staff authentication",
         "HIPAA compliance"
       ],
-      image: "/api/placeholder/600/400",
+      image: "/images/access.jpg",
       stats: {
         locations: "800+",
         reduction: "35%",
@@ -81,7 +81,7 @@ const IndustriesSection: React.FC = () => {
         "Personnel tracking",
         "Incident response"
       ],
-      image: "/api/placeholder/600/400",
+      image: "/images/access.jpg",
       stats: {
         locations: "500+",
         reduction: "50%",

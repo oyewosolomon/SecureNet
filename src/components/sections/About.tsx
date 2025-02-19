@@ -33,25 +33,25 @@ const AboutSection = () => {
     {
       name: "Sarah Chen",
       role: "Chief Executive Officer",
-      image: "/api/placeholder/300/300",
+      image: "/images/man.jpg",
       bio: "20+ years in security and AI technology"
     },
     {
       name: "Michael Rodriguez",
       role: "Chief Technology Officer",
-      image: "/api/placeholder/300/300",
+      image: "/images/man.jpg",
       bio: "Former Head of AI at Major Tech"
     },
     {
       name: "Dr. Emily Watson",
       role: "Head of AI Research",
-      image: "/api/placeholder/300/300",
+      image: "/images/man.jpg",
       bio: "PhD in Computer Vision and AI"
     },
     {
       name: "James Park",
       role: "Security Operations Director",
-      image: "/api/placeholder/300/300",
+      image: "/images/man.jpg",
       bio: "Ex-Military Intelligence Officer"
     }
   ];
