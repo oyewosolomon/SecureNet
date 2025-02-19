@@ -46,6 +46,7 @@ export default function Home() {
       <PricingSection/>
       <Testimonials/>
       <FAQSection/>
+      <ContactUs/>
 
       {/* <Contact/> */}
       <Footer/>
