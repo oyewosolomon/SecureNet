@@ -110,7 +110,7 @@ const FooterSection = () => {
 
             {/* Copyright */}
             <div className="text-gray-400 text-sm">
-              © 2025 VirtualStage. All rights reserved.
+              © 2025 SecureNet. All rights reserved.
             </div>
           </div>
         </div>

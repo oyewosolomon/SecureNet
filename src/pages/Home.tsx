@@ -38,17 +38,17 @@ export default function Home() {
   return (
     <main>
       <HeroSection/>
-      <AboutSection/>
+      
       <FeatureSection/>
       <HowItWorks/>
       <DemoShowcase/>
-<IndustriesSection/>
+      <AboutSection/>
+      <Team/>
+    <IndustriesSection/>
       <PricingSection/>
-      <Testimonials/>
+      {/* <Testimonials/> */}
       <FAQSection/>
       <ContactUs/>
-
-      {/* <Contact/> */}
       <Footer/>
     </main>
   );

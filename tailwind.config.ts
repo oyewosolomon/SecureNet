@@ -5,6 +5,10 @@ export default {
   content: ["./index.html", "./src/**/*.{js,jsx,ts,tsx}"],
   theme: {
     extend: {
+      fontFamily: {
+        headland: ['Headland One', 'serif'],
+        sans: ['ui-sans-serif', 'system-ui', 'sans-serif'],
+      },
       animation: {
         'fade-in': 'fadeIn 1s ease-in-out',
         'fade-in-up': 'fadeInUp 1s ease-in-out',

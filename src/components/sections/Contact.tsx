@@ -50,8 +50,6 @@ const ContactUs = () => {
           </p>
           <ul className="text-gray-600">
             <li className="mb-2">Email: info@securenet.com</li>
-            <li className="mb-2">Phone: +1 (123) 456-7890</li>
-            <li>Address: 123 SecureNet St, City, Country</li>
           </ul>
         </motion.div>
       </div>

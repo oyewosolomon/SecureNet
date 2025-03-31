@@ -16,13 +16,13 @@ const HeroSection = () => {
   }, []);
 
   return (
-    <div className="relative min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 overflow-hidden">
+    <div className="relative min-h-screen bg-gradient-to-b from-gray-900 to-gray-800 overflow-hidden flex items-center justify-center">
       {/* Animated background pattern */}
       <div className="absolute inset-0 bg-black opacity-50">
         <div className="absolute inset-0 bg-[linear-gradient(30deg,#1a365d_12%,transparent_12.5%,transparent_87%,#1a365d_87.5%,#1a365d)] bg-[length:30px_30px]"></div>
       </div>
 
-      <div className="relative container mx-auto px-6 pt-32 pb-24">
+      <div className="relative container mx-auto px-6 py-12">
         <div className="grid lg:grid-cols-2 gap-12 items-center">
           {/* Left content */}
           <div className={`space-y-8 transform transition-all duration-1000 ${isVisible ? 'translate-x-0 opacity-100' : '-translate-x-full opacity-0'}`}>
