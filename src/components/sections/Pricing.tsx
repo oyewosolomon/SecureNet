@@ -5,7 +5,7 @@ const PricingSection = () => {
   const plans = [
     {
       name: "Essential",
-      price: "999",
+      price: "180,000",
       description: "Perfect for small businesses",
       features: [
         "Up to 5 locations",
@@ -19,7 +19,7 @@ const PricingSection = () => {
     },
     {
       name: "Professional",
-      price: "2,499",
+      price: "370,000",
       description: "Ideal for growing organizations",
       features: [
         "Up to 20 locations",
@@ -86,7 +86,7 @@ const PricingSection = () => {
 
               <div className="mb-8">
                 <div className="flex items-baseline">
-                  <span className="text-3xl font-bold">$</span>
+                  <span className="text-3xl font-bold">₦</span>
                   <span className="text-5xl font-bold mx-2">{plan.price}</span>
                   <span>/month</span>
                 </div>
