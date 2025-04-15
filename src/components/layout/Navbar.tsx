@@ -43,7 +43,7 @@ const Navbar: React.FC = () => {
           <div className="flex items-center space-x-2">
             <Lock className={`w-8 h-8 ${isScrolled ? 'text-blue-600' : 'text-white'}`} />
             <span className={`text-xl font-bold ${isScrolled ? 'text-gray-900' : 'text-white'}`}>
-              SecureNet
+            NetGuard
             </span>
           </div>
 

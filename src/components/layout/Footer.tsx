@@ -89,7 +89,7 @@ const FooterSection = () => {
               {/* <Globe className="w-6 h-6 text-purple-600" /> */}
              
             <Lock className="w-6 h-6 text-blue-600" />
-              <span className="text-xl font-bold">SecureNet</span>
+              <span className="text-xl font-bold">NetGuard</span>
             </div>
 
             {/* Social Links */}
@@ -110,7 +110,7 @@ const FooterSection = () => {
 
             {/* Copyright */}
             <div className="text-gray-400 text-sm">
-              © 2025 SecureNet. All rights reserved.
+              © 2025 NetGuard. All rights reserved.
             </div>
           </div>
         </div>
